@@ -12,3 +12,12 @@ The aim of this repository is:
 * Gather opinions on the project and evaluate if it is worth spending time to build this device.
 * Involve similar projects hosted on github
 * use a mailing list to discuss about technical requirements
+
+Hardware required for the first MVP is:
+* Raspberry Pi 3
+* TFT 3.5'
+* USB to Ethernet adapter
+
+Even if this hardware is not optimal it's suitable for a prototype.
+
+
